@@ -16,7 +16,7 @@ This page is for GitHub first-timers who want to contribute to the Ardour tutori
 
 Feel free to use this page as a testing ground. Try submitting an issue about this page, or editing it in place through your browser. Click [here](../how-to-contribute) for detailed information on how to do it. For example, fix any one of the misspelled words below.
 
-1. acommodate
+1. aAAaaAAaaAAAaaAAacomodate
 
 2. alot
 

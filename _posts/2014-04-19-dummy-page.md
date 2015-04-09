@@ -52,7 +52,7 @@ Feel free to use this page as a testing ground. Try submitting an issue about th
 
 18. inaculate
 
-19. "its a dog!"
+19. "it's a dog!"
 
 20. lyaison
 
@@ -108,7 +108,7 @@ Feel free to use this page as a testing ground. Try submitting an issue about th
 
 46. twelfthh
 
-47. untilll
+47. until
 
 48. vagueeee
 

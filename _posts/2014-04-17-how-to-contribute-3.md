@@ -107,25 +107,6 @@ You'll notice that all post files start with a date in the format YYYY-MM-DD. Th
 
 In short, use dates in file names to ensure posts are ordered in the way you want. Choose any arbitrary past date to place a post at the bottom of the blog roll, or dates in between existing posts to insert a post in between two existing ones.
 
-### Change main title of tutorial
-
-This is done inside *_config.yml*. There you can change title, description, estimated reading time, etc. It's the same file where you change the url (localhost or online website).
-
-The fields "owner name, avatar, bio" in that file define the text and image to be displayed in the "about" pop-up box.
-
-### Change background picture
-
-This is done in the file *ardour3-floss-tutorial/index.html*. The current default image is *Ardour3_Empty_Session_Transparent.png*. Replace it with any other file that you have saved inside the **images** folder.
-
-To change the background picture of individual posts, open the post file itself (extension .md) and change picture file name in the header.
-
-### Change subtitle under main title
-
-Also inside *index.html* you can change the subtitle "BEGINNER'S TUTORIAL" that shows up in the main page (it's the line "title" right below layout: post-index)
-
-You can now go ahead and "remix" the tutorial in any way you like.
-
-
 ### First thing inside a post file
 
 The first thing inside a post file should always be the header:

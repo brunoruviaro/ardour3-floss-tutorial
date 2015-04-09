@@ -12,7 +12,7 @@ image:
 ---
 
 **Ardour** is a professional, full-featured hard disk recorder
-and Digital Audio Workstation (DAW). Ardour is a Free/Libre Open Source Software (FLOSS).
+and Digital Audio Workstation (DAW). Ardour is Free/Libre Open Source Software (FLOSS).
 
 It features unlimited audio tracks and buses, non-destructive, non-linear
 editing with unlimited undo, and anything-to-anywhere signal routing. It

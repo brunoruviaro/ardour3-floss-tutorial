@@ -20,7 +20,7 @@ Feel free to use this page as a testing ground. Try submitting an issue about th
 
 2. alot
 
-3. arktik
+3. arctic
 
 4. calandar
 

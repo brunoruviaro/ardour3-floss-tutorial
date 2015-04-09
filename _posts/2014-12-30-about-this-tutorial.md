@@ -10,8 +10,8 @@ image:
   creditlink:  
 ---
 
-This tutorial provides a beginner's introduction using Ardour for basic sound recording and editing
-tasks. It assumes you have already have Ardour up and running on your computer.
+This tutorial provides a beginner's introduction to using Ardour for basic sound recording and editing
+tasks. It assumes you already have Ardour up and running on your computer.
 
 For information on how to install Ardour on Linux and Mac OS X, please visit [https://ardour.org/requirements.html](https://ardour.org/requirements.html). If using Linux, distributions such as [KXStudio](http://kxstudio.sourceforge.net/) and [UbuntuStudio](http://ubuntustudio.org/) offer a wide selection of useful music software, including Ardour.
 

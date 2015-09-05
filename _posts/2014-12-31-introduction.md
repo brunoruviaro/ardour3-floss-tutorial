@@ -14,16 +14,10 @@ image:
 **Ardour** is a professional, full-featured hard disk recorder
 and Digital Audio Workstation (DAW). Ardour is Free/Libre Open Source Software (FLOSS).
 
-It features unlimited audio tracks and buses, non-destructive, non-linear
-editing with unlimited undo, and anything-to-anywhere signal routing. It
-supports standard file formats, such as BWF, WAV, WAV64, AIFF and CAF,
-and it can use LADSPA, LV2, VST and AudioUnit plugin formats.
-
-Ardour runs on Linux and Mac OS X, and uses the **Jack Audio Connection
-Kit** (**JACK**) to interface with the computer's sound card, as well as
-with other audio applications running on the same system.
+**PLEASE NOTE:**
+This link refers to an older version of Ardour (3.5). To read the updated tutorial for Ardour 4, go to [http://brunoruviaro.github.io/ardour4-tutorial/](http://brunoruviaro.github.io/ardour4-tutorial/)
 
 More information on Ardour can be found at
 [http://ardour.org/](http://ardour.org/ "http://ardour.org/").
 
-### Click [here]({{ site.url }}/tags) to go straight to the [Table of Contents]({{ site.url }}/tags)
+### Click [here](http://brunoruviaro.github.io/ardour4-tutorial/tags/) to go to the updated [Ardour 4 tutorial](http://brunoruviaro.github.io/ardour4-tutorial/tags/)
